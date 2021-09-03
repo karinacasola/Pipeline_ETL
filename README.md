@@ -55,8 +55,8 @@ e canaliza os dados para as tabelas do banco de dados.
 
 ## Instruções sobre como executar:
 
-Certifique-se de fechar todas as conexões de banco de dados e executar create_tables.py antes de executar etl.py ou etl.ipynb. 
-Depois de executar qualquer um desses arquivos etl, você pode executar test.ipynb para verificar os valores de cada uma de nossas tabelas de banco de dados.
+Certifique-se de fechar todas as conexões de banco de dados e executar create_tables.py antes de executar etl.py ou etl.ipynb.  Depois de executar qualquer um desses arquivos etl, você pode executar test.ipynb para verificar os valores de cada uma de nossas tabelas de banco de dados.
+
 
 
 
