@@ -1,6 +1,6 @@
 # Pipeline de ETL com PostgreSQL e Python
 
-[Minhas redes sociais](https://linktr.ee/karinacasola)
+[Meu livro | redes sociais](https://linktr.ee/karinacasola)
 
 ## Índice
 
@@ -12,7 +12,7 @@
 
 ## Pré-requisitos:
 
-*  [PostgreSQL já instalado e configurado.]( https://www.postgresql.org/download/)
+*  [PostgreSQL ]( https://www.postgresql.org/download/)
 *  Instalação do Jupyter Notebook com Python 3 - [Podendo ser dentro da distribuição ANACONDA](https://www.anaconda.com/products/individual-d)
 
 
