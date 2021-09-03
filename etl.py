@@ -44,7 +44,7 @@ def insert_user_records(cur, df):
     """Selecione os dados do usuário relevantes no DataFrame e insira-os na tabela de usuários."""
     user_columns = ['userId', 'firstName', 'lastName', 'gender', 'level']
     user_df = df.loc[:, user_columns]
-    # user_df = user_df.drop_duplicates(subset='userId')
+    
 
     for i, row in user_df.iterrows():
         cur.execute(user_table_insert, row)
@@ -87,7 +87,7 @@ def process_log_file(cur, filepath):
 
 def process_data(cur, conn, filepath, func):
     
-    # get all files matching extension from directory
+    #pegar todos os arquivos com a mesma extensão
     all_files = []
     for root, dirs, files in os.walk(filepath):
         files = glob.glob(os.path.join(root,'*.json'))
