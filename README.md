@@ -2,7 +2,7 @@
 
 [Minhas redes sociais](https://linktr.ee/karinacasola)
 
-## ÍNDICE
+## Índice
 
 * [Pré-requisitos](#Pré-requisitos)
 * [Biblioteca Python ](#Bibliotecas-Python)
