@@ -23,6 +23,7 @@
 * Pandas
 * glob
 * os
+* Numpy
 
 
 ## Visão dos dados e do código:
