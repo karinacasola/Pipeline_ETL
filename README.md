@@ -27,10 +27,10 @@
 
 ## Visão dos dados e do código:
 
-*    data/song_data/- Contém nossos dados de música no formato json.
-*    data/log_data/- Contém nossos registros de atividades do usuário em formato json. 
+*    data/song_data/- Contém os dados de música no formato json.
+*    data/log_data/- Contém os registros de atividades do usuário em formato json. 
 *    [`test.ipynb`](test.ipynb) Exibe as primeiras linhas de cada tabela para verificar o banco de dados.
-*    [`create_tables.py`](create_tables.py) Descarta e cria as tabelas. Você executa esse arquivo para redefinir suas tabelas antes de cada vez que executa seus scripts ETL.
+*    [`create_tables.py`](create_tables.py) Descarta e cria as tabelas. Esse arquivo serve para redefinir as tabelas antes de executar os scripts ETL.
 
 *    [`etl.ipynb`](etl.ipynb) Lê e processa um único arquivo de song_data e log_data e carrega os dados nas tabelas. Este bloco de notas contém instruções detalhadas sobre o processo ETL para cada uma das tabelas.
 
