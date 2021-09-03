@@ -13,7 +13,7 @@
 ## Pré-requisitos:
 
 *  [PostgreSQL já instalado e configurado.]( https://www.postgresql.org/download/)
-*  [Instalação do Jupyter Notebook com Python 3 - Podendo ser dentro da distribuição ANACONDA](https://www.anaconda.com/products/individual-d)
+*  Instalação do Jupyter Notebook com Python 3 - [Podendo ser dentro da distribuição ANACONDA](https://www.anaconda.com/products/individual-d)
 
 
 ## Bibliotecas Python:
